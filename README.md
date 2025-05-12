@@ -44,3 +44,7 @@ I used the **IMDB Dataset of 50K Movie Reviews** from Kaggle.
 ```python
 predict_sentiment("I loved this movie!")
 # Output: Positive
+🙋 Contact
+### You can reach me at:
+
+📧 Email: zakisubhani01@gmail.com
