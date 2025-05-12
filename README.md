@@ -1,4 +1,3 @@
-# Sentiment-Analysis-of-IMDB-Reviews
 # Sentiment Analysis of IMDB Reviews 🎥
 
 This is **Task 2** of my Data Science Internship at DevelopersHub Corporation.
